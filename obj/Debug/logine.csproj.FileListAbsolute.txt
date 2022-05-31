@@ -1,0 +1,14 @@
+C:\Users\AITELBACHA\Desktop\les att\att4\logine\logine\bin\logine.dll
+C:\Users\AITELBACHA\Desktop\les att\att4\logine\logine\bin\logine.pdb
+C:\Users\AITELBACHA\Desktop\les att\att4\logine\logine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AITELBACHA\Desktop\les att\att4\logine\logine\obj\Debug\logine.dll
+C:\Users\AITELBACHA\Desktop\les att\att4\logine\logine\obj\Debug\logine.pdb
+C:\Users\AITELBACHA\Desktop\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\bin\logine.dll
+C:\Users\AITELBACHA\Desktop\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\bin\logine.pdb
+C:\Users\AITELBACHA\Desktop\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AITELBACHA\Desktop\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\obj\Debug\logine.dll
+C:\Users\AITELBACHA\Desktop\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\obj\Debug\logine.pdb
+D:\ComptoirAnglais\m\anglais\francais\arabe\red\TDI2\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\bin\logine.dll
+D:\ComptoirAnglais\m\anglais\francais\arabe\red\TDI2\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\bin\logine.pdb
+D:\ComptoirAnglais\m\anglais\francais\arabe\red\TDI2\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\obj\Debug\logine.dll
+D:\ComptoirAnglais\m\anglais\francais\arabe\red\TDI2\les prof\mr.aoujil\asp\envoyer des valeur a autre page\logine\obj\Debug\logine.pdb
